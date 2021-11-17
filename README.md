@@ -10,6 +10,8 @@
 ## About this repository
 This repository contains CUDA C++ Source Code developed for the study as well as Source Data and Scripts for producing Main Figures and Extended Data Figures of the paper.
 
+A copy of this repository can also be found here: https://github.com/iamfuxiao/tumour-growth-patterns-impact-evolution
+
 ## Model and Source Code
 
 ### Model
